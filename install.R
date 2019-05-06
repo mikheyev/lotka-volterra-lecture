@@ -1,4 +1,4 @@
-install.packages(c("tidyverse", "devtools"))
+install.packages(c("tidyverse", "devtools", "phaseR", "deSolve", "gganimate", "gifski"))
 library(devtools)
 install_github("dgrtwo/gganimate")
 install_github('talgalili/installr')

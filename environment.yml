@@ -1,8 +1,8 @@
-name: lotke-volterrs
+name: lotka-volterrs
 channels:
   r
 dependencies:
-  - r-essentials 
+  - r-essentials
   - python
   - pip
   - pip:

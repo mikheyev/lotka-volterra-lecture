@@ -1,6 +1,7 @@
-install.packages(c("tidyverse", "devtools", "phaseR", "deSolve", "gganimate", "gifski"))
+install.packages(c("tidyverse", "devtools", "phaseR", "deSolve", "gganimate"))
 library(devtools)
 install_github("dgrtwo/gganimate")
 install_github('talgalili/installr')
 library(installr)
 install.ImageMagick()
+install_github("r-rust/gifski")

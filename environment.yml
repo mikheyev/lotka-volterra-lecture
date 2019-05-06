@@ -1,0 +1,10 @@
+name: lotke-volterrs
+channels:
+  r
+dependencies:
+  - r-essentials 
+  - python
+  - pip
+  - pip:
+    - jupyter
+    - jupyterthemes

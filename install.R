@@ -1,0 +1,6 @@
+install.packages(c("tidyverse", "devtools"))
+library(devtools)
+install_github("dgrtwo/gganimate")
+install_github('talgalili/installr')
+library(installr)
+install.ImageMagick()
